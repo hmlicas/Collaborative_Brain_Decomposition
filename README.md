@@ -1,6 +1,6 @@
 # Collaborative Brain Decomposition
 
-# References
+# Reference
 Hongming Li, Theodore D. Satterthwaite, and Yong Fan. "Large-scale sparse functional networks from resting state fMRI." NeuroImage 156 (2017): 1-13.
 
 # Introduction
